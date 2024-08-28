@@ -1,0 +1,21 @@
+.filter-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .filter-container .filter {
+    display: flex;
+    align-items: center;
+  }
+  
+  .filter-container input {
+    border: 1px solid #c0e3e5;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .filter-container button {
+    margin-left: 10px;
+  }
